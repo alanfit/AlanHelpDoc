@@ -56,8 +56,6 @@
 
   [购买储值卡](https://alanfit.github.io/AlanHelpDoc/阿懒工作室版本/会员操作/购买储值卡)
 
-  [退卡](https://alanfit.github.io/AlanHelpDoc/阿懒工作室版本/会员操作/退卡)
-
   [退会](https://alanfit.github.io/AlanHelpDoc/阿懒工作室版本/会员操作/退会)
 
   [购买团课](https://alanfit.github.io/AlanHelpDoc/阿懒工作室版本/会员操作/购买团课)
