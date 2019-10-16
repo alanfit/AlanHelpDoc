@@ -30,4 +30,4 @@ SAAS软件内包含的基本管理逻辑不能满足俱乐部的管理要求，�
 
 系统故意不兼容市面上的硬件，捆绑销售自家硬件产品，但硬件价格远远高于行业平均水平。企业被绑架，智能硬件上也不是，不上也不是，叫苦连天。
 
-![image-20191005183112429](/Users/qiang/Library/Application Support/typora-user-images/image-20191005183112429.png)
+![image-20191005183112429](../assets/mp/image-20191005183112429.png)
